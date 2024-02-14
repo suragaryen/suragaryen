@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=&height=300&section=header&text=WELCOME!-nl-IT'S%20SOO'S%20GITHUB🚀&fontSize=50&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=&height=300&section=header&text=WELCOME%20TO%20SOO'S%20GITHUB🚀&fontSize=50&animation=fadeIn)
 
 <div align="center">
     <h1 align="center">📚Stacks</h1>
